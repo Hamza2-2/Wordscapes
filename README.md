@@ -1,5 +1,6 @@
 # Wordscapes
 A Word Guessing Game 
+
 ![image](https://github.com/user-attachments/assets/9c2be7d8-9f5b-4c43-beac-642f1557647d)
 ![image](https://github.com/user-attachments/assets/a39986db-f7f1-4a9e-b758-7dbf40630d17)
 ![image](https://github.com/user-attachments/assets/7db26a5d-7a39-4a11-9343-7ca7df20a169)
