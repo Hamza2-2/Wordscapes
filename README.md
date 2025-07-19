@@ -89,5 +89,7 @@ Make sure Dictionary.txt is in the same directory as the executable.
 ## 👨‍💻 Developer
 Hamza Afzal
 
-BSCS, Bahria University, Islamabad
+BSCS, 
+
+Bahria University, Islamabad
 
